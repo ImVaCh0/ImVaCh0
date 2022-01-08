@@ -9,6 +9,7 @@
 - ![Language](https://img.shields.io/badge/language-html-brightgreen)
 - ![Language](https://img.shields.io/badge/language-python-brightgreen)
 - ![Language](https://img.shields.io/badge/language-javascript-brightgreen)
+- ![Language](https://img.shields.io/badge/language-css-brightgreen)
 ### 입니다
 
 ### 깃허브 스텟
